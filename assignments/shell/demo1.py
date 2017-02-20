@@ -16,7 +16,9 @@ def cat(file):
 	f = open(file[1],'r')
 	print(f.read())
 	f.close()
-	
+def who(cmd):
+	print(os.popen('who').read())
+	return
 	  
 if __name__ == '__main__':
 	cmd = input('% ')
@@ -32,6 +34,10 @@ if __name__ == '__main__':
 		t.join()
 	elif (cmd[0]=="cat"):
 		t = threading.Thread(target=cat,args=(cmd,))
+		t.start()
+		t.join()
+	elif (cmd[0]=="who"):
+		t = threading.Thread(target=who,args=(cmd,))
 		t.start()
 		t.join()
 	
