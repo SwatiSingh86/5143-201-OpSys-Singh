@@ -6,8 +6,8 @@ Team Information:
 
 | Name                         | Email           | Github Username  |
 | -----------------------------|:---------------:| ----------------:|
-|  Valliyil SaiKiran           | valliyilmenon@gmail.com |Valliyilmenon|
-| Singh Swati|er.swatisingh86@gmail.com| SwatiSingh86 |
+|   Singh Swati           | er.swatisingh86@gmail.com |SwatiSingh86|
+|Valliyil SaiKiran|Valliyilmenon@gmail.com| Valliyilmenon |
 |Tinubu, Oluwaseyi| tinubuseyi@gmail.com|Decastrino |
 
 
