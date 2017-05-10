@@ -1,4 +1,3 @@
-
 Readme file for team 10.
 ---------------------------
 
@@ -6,14 +5,23 @@ Team Information:
 
 | Name                         | Email           | Github Username  |
 | -----------------------------|:---------------:| ----------------:|
-|   Singh Swati           | er.swatisingh86@gmail.com |SwatiSingh86|
-|Valliyil SaiKiran|Valliyilmenon@gmail.com| Valliyilmenon |
+|  Valliyil SaiKiran           | valliyilmenon@gmail.com |Valliyilmenon|
+| Singh Swati|er.swatisingh86@gmail.com| SwatiSingh86 |
 |Tinubu, Oluwaseyi| tinubuseyi@gmail.com|Decastrino |
 
 
 
 Code attributed to members of the team.
 ---------------------------------------
+
+Valliyil Saikiran:
+-----------------
+
+- Cameup with most of the project implementation.
+- Worked and developed the Semaphores (The most challenging part for us)
+- Integreated all other existing methods developed by team members to work with semaphore module created.
+- Created semaphore queues and status_list queue to be used by all queues implemented
+- Ensured the output of the textfile(test_file_C)matched the sample textfile that was provided.
 
 Singh Swati:
 ------------
@@ -25,15 +33,6 @@ Singh Swati:
 - Encouraged the team to keep working when we got stuck by proferring other ideas and solutions.
 - Created team pie chart
 
-Valliyil Saikiran:
------------------
-
-- Cameup with most of the project implementation.
-- Worked and developed the Semaphores (The most challenging part for us)
-- Integreated all other existing methods developed by team members to work with semaphore module created.
-- Created semaphore queues and status_list queue to be used by all queues implemented
-- Ensured the output of the textfile(test_file_C)matched the sample textfile that was provided.
-
 Tinubu Helix:
 -------------
 
@@ -42,6 +41,11 @@ Tinubu Helix:
 - Integreated all other methods developed by my team members together with initial code.
 - Formatted output and Calculated average timings for the operations.
 - Created the readme file
+
+Pie Chart for Participation:
+----------------------------
+
+![](https://github.com/Valliyilmenon/5143-201-OpSys-Valliyil/blob/master/assignments/cpu_simulation/pie.png)
 
 Files in the project.
 ---------------------------
