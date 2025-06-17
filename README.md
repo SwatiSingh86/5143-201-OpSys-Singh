@@ -1,6 +1,6 @@
 # 5143-201-OpSys-Singh
 
-![Swti Singh]()
+![Swati Singh]()
 
 Swati Singh
 
